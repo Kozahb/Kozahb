@@ -42,5 +42,11 @@
 - 📊 Aprofundando em **práticas DevOps** e **deploy automático com Docker**
 
 
+Aqui alguns dos meus projetos:
+
+- 🔹 **API de Pedidos com .NET + EF Core**
+- 🔹 **Dashboard de Vendas com gráficos (SQL + C#)**
+
+*(Mais detalhes nos repositórios fixados 👇)*
 
 

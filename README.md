@@ -8,7 +8,7 @@
 🎓 Atualmente, estou no **5º Semestre de Engenharia da Computação**.<br>
 💼 Buscando minha primeira oportunidade como estagiário ou desenvolvedor júnior.<br>
 🛠️ Tenho experiência prática em desenvolvimento backend com **C# e .NET**, automação de processos e consumo/criação de **APIs RESTful**.<br>
-🚀 Em constante aprendizado para expandir meus conhecimentos em Back-end.<br>
+⚙️ Em constante aprendizado para expandir meus conhecimentos em Back-end.<br>
 📚 Certificações em **C#**, **SQL**, e **Inteligência Artificial** (Google e Santander).<br>
 🔄 Interesso-me por **Integração Contínua/Entrega Contínua (CI/CD)** e boas práticas de versionamento e entrega de software.
 

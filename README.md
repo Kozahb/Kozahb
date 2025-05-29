@@ -47,7 +47,7 @@ Aqui alguns dos meus projetos:
 - 🔹 **API de Pedidos com .NET + EF Core**
 - 🔹 **Dashboard de Vendas com gráficos (SQL + C#)**
 - 🔹 **To-Do List App – Aplicação desenvolvida com ASP.NET Core MVC e ADO.NET, com operações CRUD completas, design responsivo com Bootstrap 4 e interações dinâmicas via JavaScript/jQuery**
-- 🔹 URL Shortener – Encurtador de URLs construído com ASP.NET Core MVC, suporte a redirecionamento dinâmico, design moderno e responsivo com modo escuro, animações suaves
+- 🔹 **URL Shortener – Encurtador de URLs construído com ASP.NET Core MVC, suporte a redirecionamento dinâmico, design moderno e responsivo com modo escuro, animações suaves**
   
 *(Mais detalhes nos repositórios fixados 👇)*
 
